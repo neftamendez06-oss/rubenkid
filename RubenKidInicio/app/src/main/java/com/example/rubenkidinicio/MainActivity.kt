@@ -29,7 +29,7 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import com.example.rubenkidinicio.ui.theme.RubenKidInicioTheme
-import kotlinx.coroutines.time.delay
+import kotlinx.coroutines.delay
 import androidx.compose.ui.unit.sp as sp1
 
 class MainActivity : ComponentActivity() {
